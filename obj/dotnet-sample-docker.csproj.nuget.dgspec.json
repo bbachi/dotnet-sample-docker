@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/bhargavbachina/Projects/dotnet/dotnet-sample-docker/dotnet-sample-docker.csproj": {}
+  },
+  "projects": {
+    "/Users/bhargavbachina/Projects/dotnet/dotnet-sample-docker/dotnet-sample-docker.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/bhargavbachina/Projects/dotnet/dotnet-sample-docker/dotnet-sample-docker.csproj",
+        "projectName": "dotnet-sample-docker",
+        "projectPath": "/Users/bhargavbachina/Projects/dotnet/dotnet-sample-docker/dotnet-sample-docker.csproj",
+        "packagesPath": "/Users/bhargavbachina/.nuget/packages/",
+        "outputPath": "/Users/bhargavbachina/Projects/dotnet/dotnet-sample-docker/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/bhargavbachina/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
